@@ -38,10 +38,3 @@ Uygulama konsol arayüzü üzerinden şu işlemleri gerçekleştirir:
 
 Proje, verileri **Frankfurter API** üzerinden almaktadır.
 * **Endpoint:** `https://api.frankfurter.app/latest?from=TRY`
-
-## 💻 Kurulum ve Çalıştırma
-
-Projeyi bilgisayarınıza klonlayın:
-
-```bash
-git clone [https://github.com/KULLANICIADIN/CurrencyTracker.git](https://github.com/KULLANICIADIN/CurrencyTracker.git)
